@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Lea Monica\Downloads\PROG8170_Assignment1 (2)\PROG8170_Assignment1\PROG8170_Assignment1\Assignment1_Test\bin\Debug\Assignment1_Test.exe" total="22" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-06-01" time="15:12:39">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8745" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Lea Monica\Downloads\NUnit-2.6.4\NUnit-2.6.4\bin" machine-name="LAPTOP-2LGR7JU8" user="Lea Monica" user-domain="LAPTOP-2LGR7JU8" />
+  <culture-info current-culture="en-PH" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Lea Monica\Downloads\PROG8170_Assignment1 (2)\PROG8170_Assignment1\PROG8170_Assignment1\Assignment1_Test\bin\Debug\Assignment1_Test.exe" executed="True" result="Success" success="True" time="0.280" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Assignment1_Test" executed="True" result="Success" success="True" time="0.271" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CircleTest" executed="True" result="Success" success="True" time="0.269" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="AddToRadius_Negative_Value_Test_ThrowsExcptn" executed="True" result="Success" success="True" time="0.104" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.AddToRadius_Negative_Value_Test_ThrowsExcptn(5.05d,-3.5d)" executed="True" result="Success" success="True" time="0.093" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.AddToRadius_Negative_Value_Test_ThrowsExcptn(5.05d,-1E-18.0d)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="AddToRadius_Positive_Value_Test" executed="True" result="Success" success="True" time="0.018" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.AddToRadius_Positive_Value_Test(5.05d,1.5d)" executed="True" result="Success" success="True" time="0.010" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.AddToRadius_Positive_Value_Test(5.05d,1E-18.0d)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="Create_Circle_Blank_Constructor_Test" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.Create_Circle_Blank_Constructor_Test(5)" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.Create_Circle_Blank_Constructor_Test(0)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.Create_Circle_Blank_Constructor_Test(1E-12.0d)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="Create_Circle_Test" executed="True" result="Success" success="True" time="0.012" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.Create_Circle_Test(5)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.Create_Circle_Test(0)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.Create_Circle_Test(1E-12.0d)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="GetArea_Null_Value_Test" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.GetArea_Null_Value_Test(null)" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="GetArea_Test" executed="True" result="Success" success="True" time="0.007" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.GetArea_Test(0)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.GetArea_Test(1.25125d)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="GetCircumference_Null_Value_Test" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.GetCircumference_Null_Value_Test(null)" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="GetCircumference_Test" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.GetCircumference_Test(0)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.GetCircumference_Test(1.25125d)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="SubtractFromRadius_Greater_Value_Test_ThrowsExcptn" executed="True" result="Success" success="True" time="0.008" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.SubtractFromRadius_Greater_Value_Test_ThrowsExcptn(5.05d,21)" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.SubtractFromRadius_Greater_Value_Test_ThrowsExcptn(5.05d,5.05000000001d)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="SubtractFromRadius_Negative_Value_Test_ThrowsExcptn" executed="True" result="Success" success="True" time="0.009" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.SubtractFromRadius_Negative_Value_Test_ThrowsExcptn(5.05d,-3.5d)" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.SubtractFromRadius_Negative_Value_Test_ThrowsExcptn(5.05d,-1E-10.0d)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="SubtractFromRadius_Positive_Test" executed="True" result="Success" success="True" time="0.008" asserts="0">
+                <results>
+                  <test-case name="Assignment1_Test.CircleTest.SubtractFromRadius_Positive_Test(5.05d,2.5d)" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Assignment1_Test.CircleTest.SubtractFromRadius_Positive_Test(5.05d,0)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

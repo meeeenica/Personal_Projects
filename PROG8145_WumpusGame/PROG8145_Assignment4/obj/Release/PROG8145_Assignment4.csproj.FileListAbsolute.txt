@@ -1,0 +1,6 @@
+C:\Users\Lea Monica\Documents\Visual Studio 2015\Projects\PROG8145_Assignment4\PROG8145_Assignment4\bin\Release\PROG8145_Assignment4.exe.config
+C:\Users\Lea Monica\Documents\Visual Studio 2015\Projects\PROG8145_Assignment4\PROG8145_Assignment4\bin\Release\PROG8145_Assignment4.exe
+C:\Users\Lea Monica\Documents\Visual Studio 2015\Projects\PROG8145_Assignment4\PROG8145_Assignment4\bin\Release\PROG8145_Assignment4.pdb
+C:\Users\Lea Monica\Documents\Visual Studio 2015\Projects\PROG8145_Assignment4\PROG8145_Assignment4\obj\Release\PROG8145_Assignment4.exe
+C:\Users\Lea Monica\Documents\Visual Studio 2015\Projects\PROG8145_Assignment4\PROG8145_Assignment4\obj\Release\PROG8145_Assignment4.pdb
+C:\Users\Lea Monica\documents\visual studio 2015\Projects\PROG8145_Assignment4\PROG8145_Assignment4\obj\Release\PROG8145_Assignment4.csprojResolveAssemblyReference.cache

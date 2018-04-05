@@ -1,0 +1,9 @@
+c:\users\lea monica\documents\visual studio 2015\Projects\School\School\bin\Debug\School.exe.config
+c:\users\lea monica\documents\visual studio 2015\Projects\School\School\bin\Debug\School.exe
+c:\users\lea monica\documents\visual studio 2015\Projects\School\School\bin\Debug\School.pdb
+c:\users\lea monica\documents\visual studio 2015\Projects\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+c:\users\lea monica\documents\visual studio 2015\Projects\School\School\obj\Debug\School.exe
+c:\users\lea monica\documents\visual studio 2015\Projects\School\School\obj\Debug\School.pdb
+E:\Lea Monica\VS Projects\School\School\bin\Debug\School.exe.config
+E:\Lea Monica\VS Projects\School\School\obj\Debug\School.exe
+E:\Lea Monica\VS Projects\School\School\obj\Debug\School.pdb

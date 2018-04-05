@@ -1,0 +1,66 @@
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\ApplicationInsights.config
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\csc.exe
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\vbc.exe
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\VBCSCompiler.exe
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\PictureFeed.dll.config
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\PictureFeed.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\PictureFeed.pdb
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.Web.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.ApplicationInsights.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.Web.xml
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.ApplicationInsights.xml
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\obj\Debug\PictureFeed.csprojResolveAssemblyReference.cache
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\obj\Debug\PictureFeed.dll
+c:\users\lea monica\documents\visual studio 2015\Projects\PictureFeed\PictureFeed\obj\Debug\PictureFeed.pdb
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\ApplicationInsights.config
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\csc.exe
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\System.Collections.Immutable.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\System.Reflection.Metadata.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\vbc.exe
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\VBCSCompiler.exe
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\roslyn\VBCSCompiler.exe.config
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\PictureFeed.dll.config
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\PictureFeed.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\PictureFeed.pdb
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.DependencyCollector.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.Web.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.WindowsServer.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.ApplicationInsights.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.DependencyCollector.xml
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.Web.xml
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.AI.WindowsServer.xml
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.ApplicationInsights.xml
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\obj\Debug\PictureFeed.csprojResolveAssemblyReference.cache
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\obj\Debug\PictureFeed.dll
+E:\Lea Monica\VS Projects\PictureFeed\PictureFeed\obj\Debug\PictureFeed.pdb

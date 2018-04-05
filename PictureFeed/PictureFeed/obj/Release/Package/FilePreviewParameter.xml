@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ec2-52-15-82-70.us-east-2.compute.amazonaws.com/PictureFeed" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\lea\ monica\\documents\\visual\ studio\ 2015\\Projects\\PictureFeed\\PictureFeed\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\lea\ monica\\documents\\visual\ studio\ 2015\\Projects\\PictureFeed\\PictureFeed\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
